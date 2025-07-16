@@ -86,11 +86,9 @@ These insights help reduce **stockouts**, optimize **inventory holding costs**, 
 
 ---
 
-## 🖼️ Sample Screenshot
+## 🖼️ Dashboard Screenshot
 
-![Inventory Dashboard Screenshot](insert-your-image-link-here)
-
-> 💡 Tip: Upload the image to your GitHub repository and paste the link here.
+![Inventory Dashboard Screenshot](Dashboard-Screenshot.png)
 
 ---
 
